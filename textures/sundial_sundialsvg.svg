@@ -29,7 +29,7 @@
      showgrid="true"
      inkscape:zoom="1.4101563"
      inkscape:cx="6.3822715"
-     inkscape:cy="341.45152"
+     inkscape:cy="171.25762"
      inkscape:window-width="1920"
      inkscape:window-height="1051"
      inkscape:window-x="-9"
@@ -67,36 +67,36 @@
        x="0"
        y="0" />
     <path
-       style="color:#000000;fill:#07070a;-inkscape-stroke:none;paint-order:stroke fill markers;fill-opacity:1"
+       style="color:#000000;fill:#9eb1c9;-inkscape-stroke:none;paint-order:stroke fill markers;fill-opacity:1"
        d="m 0,-8 c -75.015894,0 -136,60.984106 -136,136 0,75.01589 60.984106,136 136,136 75.015894,0 136,-60.98411 136,-136 C 136,52.984106 75.015894,-8 0,-8 Z M 0,8 C 66.368861,8 120,61.631139 120,128 120,194.36886 66.368861,248 0,248 -66.368861,248 -120,194.36886 -120,128 -120,61.631139 -66.368861,8 0,8 Z"
        id="path1" />
     <path
        d="M 0,48 8,16 H 0 Z"
-       style="stroke-width:16;paint-order:stroke fill markers;fill:#07070a;fill-opacity:1"
+       style="stroke-width:16;paint-order:stroke fill markers;fill:#7988b1;fill-opacity:1"
        id="path23" />
     <path
        d="m 80,128 32,8 v -16 z"
-       style="fill:#07070a;fill-opacity:1;stroke-width:16;paint-order:stroke fill markers"
+       style="fill:#7988b1;fill-opacity:1;stroke-width:16;paint-order:stroke fill markers"
        id="path24"
        sodipodi:nodetypes="cccc" />
     <path
-       style="fill:#07070a;fill-opacity:1;stroke:none;stroke-width:16;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       style="fill:#7988b1;fill-opacity:1;stroke:none;stroke-width:16;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="M 73.539105,43.147186 84.852814,54.460895 56.568542,71.431458 Z"
        id="path3" />
     <path
-       style="fill:#07070a;fill-opacity:1;stroke:none;stroke-width:16;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       style="fill:#7988b1;fill-opacity:1;stroke:none;stroke-width:16;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="M 21.260326,17.745755 36.71514,21.88686 20.705524,50.725934 Z"
        id="path7" />
     <path
-       style="fill:#07070a;fill-opacity:1;stroke:none;stroke-width:16;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       style="fill:#7988b1;fill-opacity:1;stroke:none;stroke-width:16;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="M 92.994845,65.071796 100.99485,78.928204 69.282032,88 Z"
        id="path11" />
     <path
-       style="fill:#07070a;fill-opacity:1;stroke:none;stroke-width:16;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       style="fill:#7988b1;fill-opacity:1;stroke:none;stroke-width:16;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="m 49.071797,27.005155 13.856406,8 L 40,58.717968 Z"
        id="path15" />
     <path
-       style="fill:#07070a;fill-opacity:1;stroke:none;stroke-width:16;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       style="fill:#7988b1;fill-opacity:1;stroke:none;stroke-width:16;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="m 106.11314,91.28486 4.14111,15.45481 -32.980185,0.55481 z"
        id="path19" />
   </g>
