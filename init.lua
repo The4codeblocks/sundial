@@ -1,6 +1,7 @@
 S = core.get_translator("sundial")
 
 core.register_node("sundial:sundial", {
+	paramtype = "light",
 	paramtype2 = "facedir",
 	tiles = {"sundial_sundial.png"},
 	drawtype = "mesh",
