@@ -1,4 +1,4 @@
-S = core.get_translator("sundial")
+local S = core.get_translator("sundial")
 
 core.register_node("sundial:sundial", {
 	paramtype = "light",
